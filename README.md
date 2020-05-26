@@ -10,8 +10,8 @@ How To Change The Help Message
 
 How To Install 
 
-1. Just drop and drag the mecommand folder into your resource folder into your resource folder in your server. 
-2. After you complete that open your server.cfg and do the follow: start mecommand 
+1. Just drop and drag the me-help-ooc-commands-master folder into your resource folder into your resource folder in your server. 
+2. After you complete that open your server.cfg and do the follow: start me-help-ooc-commands-master
 3. After this start your server up and it will work!
 ----------------------------------------------------------------------------------------------------------------
 
