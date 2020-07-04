@@ -15,5 +15,5 @@ How To Install
 3. After this start your server up and it will work!
 ----------------------------------------------------------------------------------------------------------------
 
-Discord:  https://discord.gg/nsAq8B 
+Discord:  https://discord.gg/bhwyhYk
 
