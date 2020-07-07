@@ -1,11 +1,7 @@
-# me-help-ooc-commands
-In this script you will have the /me command /help command and /ooc command for your chat in your FiveM server.
+#Simple Commands
+In this script you will have the /me command /help command and /ooc command and finally /radio command for your chat in your FiveM server.
 ---------------------------------------------------------------------------------------------------------------
 
-How To Change The Help Message
-
-1. Open the client.lua
-2. In line 10 you can change the message that you want the player to recieve if they do /help. 
 ---------------------------------------------------------------------------------------------------------------
 
 How To Install 
